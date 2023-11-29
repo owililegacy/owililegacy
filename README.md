@@ -1,6 +1,6 @@
 - 👋 Hi, I’m owililegacy
-- 👀 I’m interested in software development and cyber security
-- 🌱 I’m currently learning software engineering and cyber security
+- 👀 I’m interested in HTML ,CSS ,Javascript, SQL, Database, Phpmyadmin,PHP .
+- 🌱 I’m a software engineer .
 - 💞️ I’m looking to collaborate on different projects with different people around the world
 - 📫 Reach me through my email owililegacy@gmail.com
 
