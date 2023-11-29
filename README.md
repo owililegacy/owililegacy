@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @owililegacy
+- 👋 Hi, I’m owililegacy
 - 👀 I’m interested in software development and cyber security
 - 🌱 I’m currently learning software engineering and cyber security
 - 💞️ I’m looking to collaborate on different projects with different people around the world
