@@ -1,8 +1,8 @@
-- 👋 Hi, I’m owililegacy
+- 👋 Hi, I’m Juma Peter Isaac
 - 👀 I’m interested in HTML ,CSS ,Javascript, SQL, Database, Phpmyadmin,PHP .
 - 🌱 I’m a software engineer .
 - 💞️ I’m looking to collaborate on different projects with different people around the world
-- 📫 Reach me through my email owililegacy@gmail.com
+- 📫 Reach me through my email jumapeterisaac@gmail.com
 
 <!---
 owililegacy/owililegacy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
